@@ -16,8 +16,8 @@ DHT dht(DHTPIN, DHTTYPE, 15);
 DHT dht1(DHTPIN1, DHTTYPE, 15);
 
 // WiFi parameters
-const char* ssid = "No-wifi";
-const char* password = "Hoi lam gi ???";
+const char* ssid = "Tên wifi";
+const char* password = "Mật khẩu wifi";
 
 // The port to listen for incoming TCP connections 
 #define LISTEN_PORT           80
